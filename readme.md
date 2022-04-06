@@ -2,6 +2,6 @@
 
 ```cpp
     int main() {
-
+        // bad code
     }
 ```
