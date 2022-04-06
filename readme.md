@@ -1,7 +1,7 @@
 # BOOBOO 3D
 
-'''cpp
+```cpp
     int main() {
 
     }
-'''
+```
