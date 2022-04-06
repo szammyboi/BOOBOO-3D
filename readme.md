@@ -1,7 +1,7 @@
 # BOOBOO 3D
 
-'''C++
+'''cpp
     int main() {
-        
+
     }
 '''
